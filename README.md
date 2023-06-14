@@ -54,3 +54,13 @@ For preserving charset encoding, please checkout with using:
 ```
 git clone -c core.autocrlf=false https://github.com/woa-msmnile/msmnile-Drivers
 ```
+
+What Works?
+BT
+WiFi
+Touch Screen
+GPU
+Volume & Power Button. 
+
+What's Broken.
+Eveything Else.
